@@ -1,5 +1,5 @@
 # Lookupper
-This is a chrome extension, which adds a functionality to look up a word definitions quickly. For now, it only supports [Oxford Learner's Dictionaries](https://www.oxfordlearnersdictionaries.com/).
+Lookupper is a chrome extension, which adds a functionality to look up a word definitions quickly. For now, it only supports [Oxford Learner's Dictionaries](https://www.oxfordlearnersdictionaries.com/).
 
 *Read this in other languages: [English](README.md), [日本語](README.ja.md).*
 
