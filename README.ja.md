@@ -1,5 +1,5 @@
 # Lookupper
-これは単語を辞書で素早く引くためのChromeの拡張機能です。今は、 [Oxford Learner's Dictionaries](https://www.oxfordlearnersdictionaries.com/)だけをサポートしています。
+Lookupperは単語を辞書で素早く引くためのChromeの拡張機能です。今は、 [Oxford Learner's Dictionaries](https://www.oxfordlearnersdictionaries.com/)だけをサポートしています。
 
 *Read this in other languages: [English](README.md), [日本語](README.ja.md).*
 
