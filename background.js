@@ -190,6 +190,9 @@ function isValidURL (url) {
     if ((/^chrome-extension:\/\//).test(url)) {
         return false;
     }
+    if ((/^https?:\/\/chrome.google.com/).test(url)) {
+        return false;
+    }
     return true;
 }
 
