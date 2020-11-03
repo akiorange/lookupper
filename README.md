@@ -29,6 +29,4 @@ Although this extension is not listed on Chrome Web Store, you can install it by
 ## Acknowledgements
 - [chromeExtensionAsync](https://github.com/KeithHenry/chromeExtensionAsync): Promise wrapper for the [Chrome extension API](https://developer.chrome.com/extensions). By default, Chrome Extension API uses callback functions instead of Promises. `chromeExtensionAsync` is used in the code of this extension in order to avoid callback hell and improve maintainability of the code.
 
-- [chromeExtensionAsync](https://github.com/KeithHenry/chromeExtensionAsync):  To avoid callback hell, `chromeExtensionAsync` is used in the code of this extension, which makes Extension API able to handle Promises. It helped a lot to improve maintainability of the code.
-
 - [Feather](https://github.com/feathericons/feather): A collection of beautiful icons. This extension's icon is from Feather. 
