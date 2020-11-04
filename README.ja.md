@@ -31,4 +31,4 @@ Lookupperは単語を辞書で素早く引くためのChromeの拡張機能で�
 ## 謝辞
 - [chromeExtensionAsync](https://github.com/KeithHenry/chromeExtensionAsync): [Chrome拡張機能のAPI](https://developer.chrome.com/extensions)がJavascriptのPromiseを使えるようにするためにライブラリです。 Chrome拡張機能のAPIは、デフォルトでPromiseではなくコールバック関数を使います。コールバック地獄を防ぎ、コードの保守性を保つために、`chromeExtensionAsync`がこの拡張機能のコードの中で使われています。
 
-- [Feather](https://github.com/feathericons/feather): 素晴らしいアイコンのコレクションです。この拡張機能のアイコンはFeatherのコレクションの１つです。
+- [Feather](https://github.com/feathericons/feather): シンプルできれいなアイコンのコレクションです。この拡張機能のアイコンはFeatherのコレクションの１つです。
