@@ -30,6 +30,6 @@ Although this extension is not listed on Chrome Web Store, you can install it by
 
 ## Thank you
 
-- [ChromeExtensionAsync](https://github.com/KeithHenry/chromeExtensionAsync) is used to make the native [Extension API](https://developer.chrome.com/extensions) able to handle Promises instead of callbacks. This helps a lot to improve maintainability of the code.
+- [ChromeExtensionAsync](https://github.com/KeithHenry/chromeExtensionAsync) library is used to make the native [Extension API](https://developer.chrome.com/extensions) able to handle Promises instead of callbacks. This helps a lot to improve maintainability of the code.
 
 - [Feather](https://github.com/feathericons/feather) provides the icon for this extension.
